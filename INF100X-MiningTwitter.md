@@ -344,7 +344,7 @@ Key**. Make sure to highlight it and then copy it for the next step.
 
 Open up a web browser of your choice and type the following API request URL:
 
-http://where.yahooapis.com/v1/countries/NA?appid=[yourappidhere]
+http://where.yahooapis.com/v1/countries?appid=[yourappidhere]
 
 Replace [yourappidhere] with your unique Yahoo Application Id
 
@@ -353,13 +353,13 @@ Sample ID: dj8yJmk9UFhzTVVBUjFlRDF1JmQ9WVdrOVVrOWhSM3B0TkhNbWNHblzNQS0tJnM9Y29uc
 
 In order to retrieve the WOE (Where On Earth), now paste the url
 
-http://where.yahooapis.com/v1/countries/NA?appid=dj8yJmk9UFhzTVVBUjFlRDF1JmQ9WVd
-rOVVrOWhSM3B0TkhNbWNHblzNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1iZQ--
+http://where.yahooapis.com/v1/countries?appid=dj8yJmk9UFhzTVVBUjFlRDFmjUQ9WVdrOV
+VrOWhSM3B0TkhNbWNHblzNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1iZQ--
 
 **Note**: For security reasons, I have modified the unique application id, but
 it would return results for your application Id.
 
-Note down your assigned country unique WOE Id
+Note down your assigned country unique WOE Id.
 
 
 
